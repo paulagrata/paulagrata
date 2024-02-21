@@ -1,5 +1,5 @@
 ### ⚡⚡⚡
-## hi, i'm paula grata! [![bongocat_wave](https://cdn3.emoji.gg/emojis/5226-bongocat-wave.gif)](https://emoji.gg/emoji/5226-bongocat-wave)
+## hi, i'm paula grata! <img src="https://cdn3.emoji.gg/emojis/5226-bongocat-wave.gif" width="32">
 
 ```java
 const paula = {
