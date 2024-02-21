@@ -13,5 +13,7 @@ const paula = {
       role: "president"
     }
   }
+  worksat: ["netherrealmstudios"]
+  currentproject: ["sims-bot"]
 }
 ```
