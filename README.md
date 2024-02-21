@@ -14,7 +14,7 @@ const paula = {
     }
   },
   worksat: ["netherrealmstudios"],
-  currentproject: ["sims-bot"],
-  wants2be: ["softwareengineer"],
+  currentprojects: ["sims-bot", "vpland"],
+  wants2be: ["softwareengineer"]
 }
 ```
