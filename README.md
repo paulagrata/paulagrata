@@ -7,14 +7,15 @@ const paula = {
   pronouns: ["she", "her", "alien"],
   code: ["python", "javascript", "java", "c++" "html", "css"],
   tools: ["react", "node.js", "unrealengine", "unity", "androidstudio"],
-  college: ["lewis university"],
+  college: ["lewisuniversity"],
   clubs: {
-    "cool kids club": {
+    "coolkidsclub": {
       role: "president"
     }
   },
   worksat: ["netherrealmstudios"],
   currentprojects: ["sims-bot", "vpland"],
-  wants2be: ["softwareengineer"]
+  wants2be: ["softwareengineer"],
+  from: ["outerspace"]
 }
 ```
