@@ -12,9 +12,9 @@ const paula = {
     "cool kids club": {
       role: "president"
     }
-  }
-  worksat: ["netherrealmstudios"]
-  currentproject: ["sims-bot"]
-  wants2be: ["softwareengineer"]
+  },
+  worksat: ["netherrealmstudios"],
+  currentproject: ["sims-bot"],
+  wants2be: ["softwareengineer"],
 }
 ```
