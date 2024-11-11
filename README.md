@@ -5,17 +5,17 @@
 ```JavaScript
 const paula = {
   pronouns: ["she", "her", "alien"],
-  code: ["python", "javascript", "java", "c++" "html", "css"],
-  tools: ["react", "node.js", "unrealengine", "unity", "androidstudio"],
-  college: ["lewisuniversity"],
+  code: ["python", "javascript", "java", "c++"],
+  tools: ["node.js", "handlebars", "selenium", "react", "unrealengine", "unity", "androidstudio"],
+  college: ["lewisuni"],
   clubs: {
     "coolkidsclub": {
       role: "president"
     }
   },
-  worksat: ["netherrealmstudios"],
-  currentprojects: ["sims-bot", "poodle"],
-  wants2be: ["softwareengineer"],
+  worksat: ["momsbasement"],
+  currentprojects: ["slash-horror.com","sims-bot"],
+  wants2be: ["softwareengineer","softwaredeveloper"],
   from: ["outerspace"]
 }
 ```
