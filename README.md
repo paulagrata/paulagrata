@@ -6,7 +6,7 @@
 const paula = {
   pronouns: ["she", "her", "alien"],
   code: ["python", "javascript", "java", "c++"],
-  tools: ["node.js", "handlebars", "selenium", "react", "unrealengine", "unity", "androidstudio"],
+  tools: ["node", "handlebars", "selenium", "react", "unrealengine", "unity", "androidstudio"],
   college: ["lewisuni"],
   clubs: {
     "coolkidsclub": {
